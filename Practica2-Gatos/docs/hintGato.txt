@@ -1,0 +1,33 @@
+Profundidad 1 😸
+
+Profundidad 2:
+
+Diametro maximo 12. Nodos en el último nivel: 12
+
+Profundidad 3:
+
+Diametro máximo 66. Nodos en el último nivel: 66
+
+Profundidad 4:
+
+Diametro máximo 360. Nodos en el último nivel: 360
+
+Profundidad 5:
+
+Diametro maximo 1710. Nodos en el último nivel: 1710
+
+Profundidad 6:
+
+Diametro máximo 5992. Nodos en el último nivel: 5992
+
+Profundidad 7:
+
+Diametro máximo 15878. Nodos en el último nivel: 15878
+
+Profundidad 8:
+
+Diametro máximo 20964. Nodos en el último nivel: 20964
+
+Profundidad 9:
+
+Diametro máximo 20964. Nodos en el último nivel: 13538
